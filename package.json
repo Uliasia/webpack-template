@@ -16,18 +16,18 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/osabl/webpack-template.git"
+    "url": "git+https://github.com/Uliasia/webpack-template.git"
   },
   "keywords": [
     "webpack",
     "template"
   ],
-  "author": "osabl",
+  "author": "Uliasia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/osabl/webpack-template/issues"
+    "url": "https://github.com/Uliasia/webpack-template/issues"
   },
-  "homepage": "https://github.com/osabl/webpack-template#readme",
+  "homepage": "https://github.com/Uliasia/webpack-template#readme",
   "devDependencies": {
     "@babel/core": "^7.8.4",
     "@babel/preset-env": "^7.8.4",
@@ -55,5 +55,9 @@
     "webpack-bundle-analyzer": "^3.7.0",
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.10.3"
+  },
+  "dependencies": {
+    "animate.css": "^3.7.2",
+    "normalize.css": "^8.0.1"
   }
 }
